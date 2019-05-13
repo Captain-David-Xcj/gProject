@@ -69,7 +69,8 @@ class TabContent extends React.Component {
                                         name={pane.title}
                                         style={{border: "1", width: "inherit"}}
                                         onLoad={this.onLoad.bind(this)}
-                                        scrolling="no">
+                                        scrolling="no"
+                                        token="e10adc3949ba59abbe56e057f20f883e">
                                         您的浏览器必须支持iframe.
                                     </iframe>
                                 </TabPane>

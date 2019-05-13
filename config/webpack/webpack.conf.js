@@ -17,7 +17,6 @@ let config = merge(baseWebpackConfig, {
         chunkFilename: "js/[name].js",
     },
     optimization: {
-        //包清单
         runtimeChunk: {
             name: "manifest"
         }

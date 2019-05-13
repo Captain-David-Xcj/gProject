@@ -146,7 +146,7 @@ LeftMenu.defaultProps = {
                 "key": "notification",
                 "icon": "notification",
                 "title": "Notification",
-                "routeUrl": "",
+                "routeUrl": "./content/notification.html",
                 "component": "Notification"
             }]
         },
@@ -159,7 +159,7 @@ LeftMenu.defaultProps = {
                 "key": "star",
                 "icon": "star",
                 "title": "Star",
-                "routeUrl": "",
+                "routeUrl": "./content/star.html",
                 "component": "Star"
             }]
         },
@@ -173,21 +173,21 @@ LeftMenu.defaultProps = {
                     "key": "area-chart",
                     "icon": "area-chart",
                     "title": "Area-chart",
-                    "routeUrl": "",
+                    "routeUrl": "./content/areaChart.html",
                     "component": "Area-chart"
                 },
                 {
                     "key": "pie-chart",
                     "icon": "pie-chart",
                     "title": "Pie-chart",
-                    "routeUrl": "",
+                    "routeUrl": "./content/pieChart.html",
                     "component": "Pie-chart"
                 },
                 {
                     "key": "bar-chart",
                     "icon": "bar-chart",
                     "title": "Bar-chart",
-                    "routeUrl": "",
+                    "routeUrl": "./content/barChart.html",
                     "component": "Bar-chart"
                 }
             ]
@@ -209,14 +209,14 @@ LeftMenu.defaultProps = {
                     "key": "phone",
                     "icon": "phone",
                     "title": "Phone",
-                    "routeUrl": "",
+                    "routeUrl": "./content/phone.html",
                     "component": "Phone"
                 },
                 {
                     "key": "message",
                     "icon": "message",
                     "title": "Message",
-                    "routeUrl": "",
+                    "routeUrl": "./content/message.html",
                     "component": "Message"
                 }
             ]
@@ -231,14 +231,14 @@ LeftMenu.defaultProps = {
                     "key": "dollar",
                     "icon": "dollar",
                     "title": "Dollar",
-                    "routeUrl": "",
+                    "routeUrl": "./content/dollar.html",
                     "component": "Dollar"
                 },
                 {
                     "key": "red-envelope",
                     "icon": "red-envelope",
                     "title": "Red-envelope",
-                    "routeUrl": "",
+                    "routeUrl": "./content/redEnvelope.html",
                     "component": "Red-envelope"
                 }
             ]
